@@ -1,0 +1,11 @@
+.idea/.name
+.idea/misc.xml
+.idea/vcs.xml
+.idea/workspace.xml
+api-tests.iml
+.vscode/
+.classpath
+.project
+.settings/
+target/
+.idea/compiler.xml
